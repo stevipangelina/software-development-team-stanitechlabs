@@ -8,7 +8,7 @@
 
  2. Tahta Rahmatul Kahfi (2313020030)
 
- 3. Nizar Satria Arga P (2313020178)
+ 3. Nizar Satria Arga P (2313020178) 
  
  Mata kuliah : SOftware Development
 
